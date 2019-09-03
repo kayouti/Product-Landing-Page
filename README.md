@@ -32,7 +32,6 @@ here: (https://codepen.io/kayouti/full/)
 15. The product landing page should utilize CSS flexbox at least once.
 ```
 ##
-Use this CDN link to run the tests in any environment you like: https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js
 
 ### Credits
 
